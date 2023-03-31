@@ -1,6 +1,6 @@
 Name:		texlive-numerica-tables
 Version:	61288
-Release:	1
+Release:	2
 Summary:	Create multi-column tables of mathematical functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numerica-tables
