@@ -3,7 +3,7 @@ Version:	68193
 Release:	1
 Summary:	Create multi-column tables of mathematical functions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numerica-tables
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/numerica-tables
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numerica-tables.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numerica-tables.doc.r%{version}.tar.xz
