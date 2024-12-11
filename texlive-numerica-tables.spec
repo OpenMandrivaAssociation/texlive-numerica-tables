@@ -1,5 +1,5 @@
 Name:		texlive-numerica-tables
-Version:	68193
+Version:	72911
 Release:	1
 Summary:	Create multi-column tables of mathematical functions
 Group:		Publishing
